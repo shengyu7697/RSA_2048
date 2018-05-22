@@ -5,6 +5,7 @@
 
 使用rsa_solver.py練習 (來源 [dfarrell07/rsa_walkthrough](https://github.com/dfarrell07/rsa_walkthrough))  
 
+### 動手驗證看看
 使用公鑰(n=143, e=7)加密體重「72」公斤  
 加密：c = 72^7%143 = 19  
 傳送訊息：19  
